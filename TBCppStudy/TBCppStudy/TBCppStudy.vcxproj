@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5f567a18-d44e-4c2d-bd96-2bd740c80ac4}</ProjectGuid>
+    <ProjectGuid>{ffe2648d-9297-4958-b713-d5744d7bb298}</ProjectGuid>
     <RootNamespace>TBCppStudy</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
