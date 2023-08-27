@@ -39,18 +39,19 @@ Person getMe()
 	Person me{ 2.0, 100.0, 20, "bc" };
 	return me;
 }
+
+struct Employee // 2 + (2) + 4 + 8 = 16 // padding
+{
+	short id;		    // 2byte
+	int age;			// 4byte
+	double wage;	    // 8byte
+};
+
 int main()
 {
 
-	Person me{ 2.0, 100.0, 20, "bc" };
-	me.print();
-	
-	Person me2(me);
-	me2.print();
-
-	Person me_from_func = getMe();
-	me_from_func.print();
-
+	Employee emp1;
+	cout << sizeof(Employee) << endl;
 
 	return 0;
 }
