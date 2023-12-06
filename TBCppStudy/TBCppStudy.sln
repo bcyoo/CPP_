@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_6.4_Selection_Sort"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_6.5_Multi_dimensional_Array", "Chapter_6.5_Multi_dimensional_Array\Chapter_6.5_Multi_dimensional_Array.vcxproj", "{F81202B7-59D9-487C-A318-E659A4890D68}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_6.6_C_style_array", "Chapter_6.6_C_style_array\Chapter_6.6_C_style_array.vcxproj", "{7E1F96B6-019E-4748-B310-E49194706E7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -583,6 +585,14 @@ Global
 		{F81202B7-59D9-487C-A318-E659A4890D68}.Release|x64.Build.0 = Release|x64
 		{F81202B7-59D9-487C-A318-E659A4890D68}.Release|x86.ActiveCfg = Release|Win32
 		{F81202B7-59D9-487C-A318-E659A4890D68}.Release|x86.Build.0 = Release|Win32
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Debug|x64.ActiveCfg = Debug|x64
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Debug|x64.Build.0 = Debug|x64
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Debug|x86.Build.0 = Debug|Win32
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Release|x64.ActiveCfg = Release|x64
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Release|x64.Build.0 = Release|x64
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Release|x86.ActiveCfg = Release|Win32
+		{7E1F96B6-019E-4748-B310-E49194706E7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -644,6 +654,7 @@ Global
 		{085B8635-CAE5-4587-9087-42B751183D9F} = {F14EDAB9-AB93-4935-9257-70CBADE9D1C1}
 		{DFCE994D-482C-4302-8D55-3D8F4E73F46D} = {F14EDAB9-AB93-4935-9257-70CBADE9D1C1}
 		{F81202B7-59D9-487C-A318-E659A4890D68} = {F14EDAB9-AB93-4935-9257-70CBADE9D1C1}
+		{7E1F96B6-019E-4748-B310-E49194706E7C} = {F14EDAB9-AB93-4935-9257-70CBADE9D1C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {749F87DE-FEB9-4C70-9EB0-09A836389BFF}
